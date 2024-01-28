@@ -2,6 +2,4 @@
 
 A new Flutter project.
 
-video presentation
-
-https://drive.google.com/file/d/1NzChK6UWXeKZ5KoNGwdaMWylZ4RnKoPM/view?usp=drivesdk
+(https://www.linkedin.com/posts/marvanvp6282471884_flutter-appdevelopment-uiux-activity-7157087323455639552-gd8V?utm_source=share&utm_medium=member_android)https://www.linkedin.com/posts/marvanvp6282471884_flutter-appdevelopment-uiux-activity-7157087323455639552-gd8V?utm_source=share&utm_medium=member_android
